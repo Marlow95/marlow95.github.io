@@ -8,9 +8,9 @@ seo:
   no_index: false
 content_blocks:
   - _bookshop_name: hero
-    title: Hi there, I am Vanessa Marley
+    title: Hey, I'm Marlow Collins
     description_html: >-
-      <p><strong>Photographer</strong> and <strong>Visual Content
+      <p><strong>Data Analyst</strong> and <strong>Shopify Developer
       Strategist</strong> from Albany. I work as a lifestyle, product, and
       landscape photographer, creating images for a diverse range of requests,
       from online media to printed artwork.</p>
