@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://marlow95.github.io/portfolio"
 languageCode = "en-us"
 title = "Hugo Bookshop Starter"
 _enabled_editors = ["visual", "content"]
