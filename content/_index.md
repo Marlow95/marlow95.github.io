@@ -11,11 +11,9 @@ content_blocks:
     title: Hey, I'm Marlow Collins
     description_html: >-
       <p><strong>Data Analyst</strong> and <strong>Shopify Developer
-      Strategist</strong> from Albany. I work as a lifestyle, product, and
-      landscape photographer, creating images for a diverse range of requests,
-      from online media to printed artwork.</p>
+      </strong> from Albany.</p>
     image: /images/01.jpg
-    image_alt: Vanessa Marley's picture
+    image_alt: Marlow Collins's picture
     cta_button: Get in touch
     cta_button_link: '#contact'
     works_button: See my works
@@ -50,6 +48,6 @@ content_blocks:
     form_title: Get in touch
     form_description: Vonge comes with a built-in contact form.
     form_success_page: ''
-    form_submission_email: site@example.com
+    form_submission_email: marlowcollins@yahoo.com
     form_button_text: Send now
 ---
