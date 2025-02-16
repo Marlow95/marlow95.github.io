@@ -65,7 +65,5 @@
   {{ $bookshop_scss_files := partial "bookshop_scss" . }}
   {{ $scss := $bookshop_scss_files | resources.Concat "css/bookshop.css" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
   <!-- Ensure the CSS permalink uses HTTPS -->
-  <link rel="stylesheet" href="{{ $scss.Permalink | safeURL }}">
+  <link rel="stylesheet" href="{{ $scss.Permalink | absURL }}">
 </head>
-
-
