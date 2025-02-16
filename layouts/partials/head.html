@@ -61,9 +61,8 @@
   <!-- Ionicons -->
   <link href="https://unpkg.com/ionicons@4.5.10-0/dist/css/ionicons.min.css" rel="stylesheet">
 
-  <!-- The bookshop_scss partial returns a slice of all SCSS resources from your Bookshop -->
+  <!-- Bookshop SCSS -->
   {{ $bookshop_scss_files := partial "bookshop_scss" . }}
-  <!-- resources.Concat converts all of the above SCSS resources into one logical CSS file -->
   {{ $scss := $bookshop_scss_files | resources.Concat "css/bookshop.css" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
   <link rel="stylesheet" href="{{ $scss.Permalink }}">
 </head>
