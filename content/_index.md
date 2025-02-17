@@ -11,7 +11,7 @@ content_blocks:
     title: Hey, I'm Marlow Collins
     description_html: >-
       <p><strong>Data Analyst</strong> and <strong>Shopify Developer
-      </strong> from Albany.</p>
+      </strong> from Chicago.</p>
     image: /images/01.jpg
     image_alt: Marlow Collins's picture
     cta_button: Get in touch
