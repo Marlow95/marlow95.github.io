@@ -1,4 +1,4 @@
-baseURL = "https://marlow.pro/portfolio/"
+baseURL = "https://marlow.pro/"
 languageCode = "en-us"
 title = "Hugo Bookshop Starter"
 _enabled_editors = ["visual", "content"]
