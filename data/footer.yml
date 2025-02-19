@@ -10,4 +10,4 @@ footer_menu__settings:
       url: '/blog/'
 
 copyright_text_html: >-
-  <p> 2025 &copy; <a href="/">Marlow</a>.</p>
+  <p> 2025 &copy; <a href="/">Marlow</a>. <em>Template by<a href="https://cloudcannon.com/" target="_blank"> CloudCannon</a></em></p>
