@@ -1,12 +1,12 @@
 #-------------------------------
 # Social Links
-# Example of adding a new link to the footer - {icon: "ion-logo-facebook", link: "https://facebook.com"}
+# Example of adding a new link to the footer - {icon: "ion ion-logo-facebook", link: "https://facebook.com"}
 # Other icons can be found at https://ionicons.com/v4/
 # Make code changes in /partials/social_links.html
 social:
-- {icon: "ion-logo-twitter", link: "https://twitter.com/mcollins1063"}
-- {icon: "ion-logo-github", link: "https://github.com/Marlow95"}
+- {icon: "ion ion-logo-twitter", link: "https://twitter.com/mcollins1063"}
+- {icon: "ion ion-logo-github", link: "https://github.com/Marlow95"}
 # {icon: "Pinterest", link: "https://pinterest.com"}
 # {icon: "Youtube", link: "https://youtube.com"}
-- {icon: "ion-md-mail", link: "mailto:marlowcollins@yahoo.com"}
+- {icon: "ion ion-md-mail", link: "mailto:marlowcollins@yahoo.com"}
 
