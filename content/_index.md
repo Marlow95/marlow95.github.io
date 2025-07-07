@@ -10,9 +10,9 @@ content_blocks:
   - _bookshop_name: hero
     title: Hey, I'm Marlow Collins
     description_html: >-
-      <p><strong>Data Analyst</strong> and <strong>Shopify Developer
+      <p><strong>Designer</strong> and <strong>Gata Analyst
       </strong> from Chicago.</p>
-    image: /images/01.jpg
+    image: /images/avatar-final-photo.webp
     image_alt: Marlow Collins's picture
     cta_button: Get in touch
     cta_button_link: '#contact'
