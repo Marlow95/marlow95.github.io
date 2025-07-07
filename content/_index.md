@@ -2,15 +2,15 @@
 seo:
   page_description:
   canonical_url:
-  featured_image:
+  featured_image: 
   author_twitter_handle:
   open_graph_type:
   no_index: false
 content_blocks:
   - _bookshop_name: hero
-    title: Hey, I'm Marlow Collins
+    title: Hey, I'm Marlow
     description_html: >-
-      <p><strong>Designer</strong> and <strong>Gata Analyst
+      <p><strong>Product Designer</strong> and <strong>Data Analyst
       </strong> from Chicago.</p>
     image: /images/avatar-final-photo.webp
     image_alt: Marlow Collins's picture
